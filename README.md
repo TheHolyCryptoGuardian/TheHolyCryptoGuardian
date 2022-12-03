@@ -2,9 +2,9 @@
 
 Hey, i'm The Holy Crypto Guardian, a node runner, crypto enthusiast and decentralized world lover.
 
-- I’m currently running nodes on [**Aptos**](https://twitter.com/AptosLabs), [**Sui**](https://twitter.com/Mysten_Labs), [**Minima**](https://twitter.com/Minima_Global), [**Gear**](https://twitter.com/gear_techs), [**StarkNet**](https://twitter.com/StarkWareLtd), [**IronFish**](https://twitter.com/ironfishcrypto), [**Subspace**](https://twitter.com/NetworkSubspace), [**Zeeka**](https://twitter.com/ZeekaKv) and [**Bundlr**](https://twitter.com/BundlrNetwork).
+- I’m currently running nodes on [**Sui**](https://twitter.com/Mysten_Labs), [**Minima**](https://twitter.com/Minima_Global), [**Gear**](https://twitter.com/gear_techs), [**StarkNet**](https://twitter.com/StarkWareLtd), [**IronFish**](https://twitter.com/ironfishcrypto), [**Subspace**](https://twitter.com/NetworkSubspace), [**Zeeka**](https://twitter.com/ZeekaKv) and [**Bundlr**](https://twitter.com/BundlrNetwork).
 
-- Successfully finished testnets: [**Forta**](https://twitter.com/FortaNetwork), [**Kujira**](https://twitter.com/TeamKujira) and [**Subspace**](https://twitter.com/NetworkSubspace).
+- Successfully finished testnets: [**Forta**](https://twitter.com/FortaNetwork), [**Aptos**](https://twitter.com/AptosLabs), [**Kujira**](https://twitter.com/TeamKujira) and [**Subspace**](https://twitter.com/NetworkSubspace).
 
 - My non programming related content — [**Twitter**](https://twitter.com/HolyCryptoGuard).
 
